@@ -1,2 +1,2 @@
-# cap_i
-Capstone Project I
+# Capstone Project I
+
